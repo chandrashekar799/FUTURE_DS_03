@@ -3,8 +3,6 @@
 Internship Track:Data Science & Analytics  
 Task: 3 – Feedback Sentiment & Ratings Analysis  
 
----
-
 ## 📌 Project Overview  
 This project analyzes student feedback collected from a college event.  
 The goal is to measure student satisfaction, identify improvement areas, and extract sentiment insights using Python.
@@ -17,11 +15,9 @@ The analysis includes:
 - Matplotlib Visualizations  
 - Final Insights & Recommendations  
 
----
 
 ## 📁 Project Structure  
 
-```
 FUTURE_DS_03/
 │
 ├── data/
@@ -38,9 +34,6 @@ FUTURE_DS_03/
 │
 ├── Task3_Analysis.ipynb
 └── README.md
-```
-
----
 
 ## 📊 Key Findings
 
@@ -68,7 +61,6 @@ FUTURE_DS_03/
 - Better crowd management  
 - Improved scheduling  
 
----
 
 ## 🧠 Skills Demonstrated
 - Data Cleaning  
@@ -79,8 +71,6 @@ FUTURE_DS_03/
 - Python (pandas, matplotlib)  
 - Insight-based storytelling  
 
----
-
 ## 🛠 Tools & Technologies
 - Python  
 - Pandas  
@@ -88,7 +78,6 @@ FUTURE_DS_03/
 - Regular Expressions (NLP)  
 - Jupyter Notebook / Google Colab  
 
----
 
 ## 🔬 How to Run the Notebook
 
@@ -101,7 +90,6 @@ FUTURE_DS_03/
    - Generate all visualizations  
    - Save processed CSV files  
 
----
 
 ## 📈 Visualizations Included
 - Overall Rating Distribution  
@@ -112,19 +100,14 @@ FUTURE_DS_03/
 
 All images are located in the **plots/** directory.
 
----
-
 ## 📌 Final Outcome  
 This analysis presents a clear picture of what students liked about the event and what areas require improvement.  
 The insights help organizers plan better events and improve student satisfaction.
 
----
 
-## 🔗 LinkedIn Post (Mandatory)
-Remember to post your Task 3 update on LinkedIn and attach the GitHub link.
 
 ---
 
 ## 👨‍💻 Author  
-**Your Name**  
+chandrashekar R
 Data Science & Analytics Intern at Future Interns  
